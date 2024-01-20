@@ -1,7 +1,8 @@
+/* Signup.css */
 
 body {
     
-    background-color: #d5d6d8;
+    background-color: #d5d6d8; /* Light gray background color */
     background-image: url("https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
   }
   
@@ -13,7 +14,7 @@ body {
   }
   
   .card-title {
-    color: #e1e6eb; 
+    color: #e1e6eb; /* Dark text color */
   }
   
   .form-control {
@@ -22,11 +23,11 @@ body {
   }
   
   .btn-primary {
-    background-color: #07680b;
+    background-color: #07680b; /* Primary button color */
     border: 1px solid #14822c;
   }
   .form-label {
-    color: #cfd7d1;
+    color: #cfd7d1; /* Change the form label font color to green */
   }
   
   .btn-primary:hover {
@@ -36,5 +37,6 @@ body {
   .havena{
     color: #8a8c8b;
   }
-
+  
+  /* Add more styles for other elements as needed */
   
